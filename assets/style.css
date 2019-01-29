@@ -1,0 +1,13 @@
+p{
+  text-align: center;
+  font-size: 200px;
+  color: white;
+  font-family: bold;
+}
+@media screen(max-width: 700px){
+  p{
+    text-align: left;
+    font-size: 10px;
+    color: purple;
+  }
+}
